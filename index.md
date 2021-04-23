@@ -1,5 +1,5 @@
 ---
-title: "Jack's sense of partly accomplishment" 
+title: "Jack's sense of slight accomplishment" 
 ---
 
 Whale hello there!
