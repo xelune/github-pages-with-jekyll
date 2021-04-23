@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Jack's sense of accomplishment" 
 ---
 
-I'm glad you are here. I plan to talk about ...
+Whale hello there!
